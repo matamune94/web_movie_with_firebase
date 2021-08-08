@@ -25,7 +25,7 @@ export default {
       )
     },
     $_imgUploader() {
-      return 'https://api-zero-phim.herokuapp.com/api/upload'
+      return ''
     },
     $_ObjectId() {
       return mongoose.Types.ObjectId().toString()
